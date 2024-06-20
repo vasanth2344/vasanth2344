@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vasanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vasanth!;"/>
+</h1>
+
+<h3 align="right">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q1aW1tb3Q0YW5rMXkydXVjcTZhZ3hqMXM1cTFwMDZwZ2g3YXJmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">  
 
 
